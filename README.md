@@ -9,3 +9,4 @@ Silakan gunakan format berikut:<br>
 
 Berikut adalah daftar Volunter yang diterima:
 * Eka Safari, [GitHub](https://github.com/am-clone).
+* Ammar Rayyan, [Linkedin](www.linkedin.com/in/eka-safari).
